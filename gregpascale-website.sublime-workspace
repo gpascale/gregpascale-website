@@ -187,14 +187,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "public/index.html",
-			"settings":
-			{
-				"buffer_size": 711,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -260,6 +252,7 @@
 	},
 	"file_history":
 	[
+		"/Users/greg/gitclients/gregpascale-website/public/index.html",
 		"/Users/greg/gitclients/gregpascale-website/public/js/index.js",
 		"/Users/greg/gitclients/clipboard/src/node/apps/clipboard/assets-pages.js",
 		"/Users/greg/gitclients/clipboard/src/node/apps/clipboard/views/landing_originalCarousel.ejs",
@@ -415,34 +408,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "public/index.html",
-					"settings":
-					{
-						"buffer_size": 711,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38,
-								38
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
